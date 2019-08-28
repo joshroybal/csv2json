@@ -1,0 +1,21 @@
+Usage examples:
+
+csv2json.py:
+To convert a csv file to a json file at the command line run the command
+below. Where filename.csv is the name of the file you wish to convert from csv 
+to json.
+
+python csv2json.py filename.csv
+
+A converted file named filename.json will be created in the directory where
+you are currently running the script.
+
+json2csv.py:
+To convert a json file to a csv file at the command line run the command
+below. Where filename.csv is the name of the file you wish to convert from csv 
+to json.
+
+python json2csv.py filename.json
+
+A converted file named filename.csv will be created in the directory where
+you are currently running the script.
